@@ -1,7 +1,5 @@
 # NLP2
 
-***
-
 ## Porównanie wybranych miar semantycznego podobieństwa / powiązania słów
 
 Należy przygotować analizę porównawczą czterech wybranych miar semantycznego podobieństwa / powiązania słów – dwie miary bazujące na wekto-
